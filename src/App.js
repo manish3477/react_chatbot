@@ -16,7 +16,7 @@ function App() {
  <Router>
 <Navbar/>
 <Routes>
-  <Route  path="/simpleform" element={<SimpleForm/>}></Route>
+  <Route  path="/" element={<SimpleForm/>}></Route>
 </Routes>
 </Router>
 

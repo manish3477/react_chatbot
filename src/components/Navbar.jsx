@@ -5,7 +5,7 @@ export default class Navbar extends Component {
   render() {
     return (
         <>
-      <div>ChatBot Tutorial using React Simple Chatbot</div>
+      <div>ChatBot using React Simple Chatbot</div>
      </>
     )
   }
